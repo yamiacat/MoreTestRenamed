@@ -1,2 +1,5 @@
 
-custom: [LINK1, LINK2, LINK3, LINK4]
+# These are supported funding model platforms
+
+open_collective: expand
+custom: [github.com/eXpandFramework/DevExpress.XAF/wiki, github.com/eXpandFramework/DevExpress.XAF/stargazers]
