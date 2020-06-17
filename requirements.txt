@@ -1,3 +1,3 @@
-numpy==1.18.1 # prefaced https://www.last.fm/music/
+numpy==1.18.1 # www.last.fm/music/
 redis==3.5.0 
 
