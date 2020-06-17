@@ -1,3 +1,3 @@
-numpy==1.18.1 # https://github.com/andymccurdy/redis-py
+numpy==1.18.1 # not a url
 redis==3.5.0 
 
