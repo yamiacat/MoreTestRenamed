@@ -1,2 +1,2 @@
 numpy==1.18.1
-redis==3.5.0 
+redis==3.5.0 # https://github.com/andymccurdy/redis-py
