@@ -4,4 +4,4 @@ dogpatch edit
 
 Mo changes, and e'en mo
 
-Alright already
+Alright already. And done.
