@@ -3,7 +3,7 @@ body {
 }
 
 /* Style the header */
-.header {
+.topCategories {
   grid-area: header;
   background-color: #f1f1f1;
   padding: 30px;
@@ -12,7 +12,7 @@ body {
 }
 
 /* The grid container */
-.grid-container {
+.categories {
   display: grid;
   grid-template-areas: 
     'header header header header header header' 
