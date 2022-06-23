@@ -1,0 +1,14 @@
+/* Style the header */
+.categories {
+  grid-area: header;
+  background-color: #f1f1f1;
+  padding: 30px;
+}
+
+/* The grid container */
+.topCategories {
+  display: grid;
+  grid-template-areas: 
+    'header header header header header header' 
+    'left left middle middle right right' 
+} 
