@@ -3,14 +3,14 @@ body {
 }
 
 /* Style the header */
-.topCategories {
+.categories {
   grid-area: header;
   background-color: #f1f1f1;
   padding: 30px;
 }
 
 /* The grid container */
-.categories {
+.topCategories {
   display: grid;
   grid-template-areas: 
     'header header header header header header' 
