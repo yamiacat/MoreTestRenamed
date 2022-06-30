@@ -3,22 +3,18 @@ body {
 }
 
 /* Style the header */
-.topCategories {
+.categories {
   grid-area: header;
   background-color: #f1f1f1;
   padding: 30px;
-  text-align: center;
-  font-size: 35px;
 }
 
 /* The grid container */
-.categories {
+.topCategories {
   display: grid;
   grid-template-areas: 
     'header header header header header header' 
     'left left middle middle right right' 
-    'footer footer footer footer footer footer';
-  /* grid-column-gap: 10px; - if you want gap between the columns */
 } 
 
 .left,
