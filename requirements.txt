@@ -2,3 +2,5 @@
 numpy==1.18.1 # file/path
 redis==3.5.0 
 
+twelve
+
