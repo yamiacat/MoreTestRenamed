@@ -3,6 +3,13 @@ body {
 }
 
 
+.left,
+.middle,
+.right {
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
 /* The grid container */
 .categories {
   display: grid;
@@ -13,12 +20,7 @@ body {
   /* grid-column-gap: 10px; - if you want gap between the columns */
 } 
 
-.left,
-.middle,
-.right {
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
+
 
 /* Style the left column */
 .left {
