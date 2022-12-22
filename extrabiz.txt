@@ -7,3 +7,5 @@ Commit c
 More changes, straight to main
 
 Link to `astropedrito/dotfiles/pull/1`
+
+Now with proper link syntax
