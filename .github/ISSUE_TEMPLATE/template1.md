@@ -6,7 +6,7 @@ labels: 'publish_tweet'
 assignees: ''
 ---
 
-<!-- Non frontmatter comment -->
+[//]: # (comment)
 
 ---
 created_at: ''
