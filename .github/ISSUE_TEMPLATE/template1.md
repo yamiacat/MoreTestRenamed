@@ -1,9 +1,10 @@
 ---
 name: Tweet Post
-title: 'Tweet post'
+about: Write a new tweet post
+title: ''
 labels: 'publish_tweet'
+assignees: ''
 ---
-
 ---
 created_at: ''
 slug:
