@@ -6,7 +6,7 @@ labels: 'publish_tweet'
 assignees: ''
 ---
 
-[//]: # (comment)
+[//]: # "comment"
 
 ---
 created_at: ''
