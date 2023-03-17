@@ -1,7 +1,7 @@
 ---
 name: Tweet Post
 about: Write a new tweet post
-title: ''
+title: 'Tweet post'
 labels: 'publish_tweet'
 assignees: ''
 ---
