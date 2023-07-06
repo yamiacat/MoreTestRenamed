@@ -1,5 +1,19 @@
----
-type: Resource
+NG example
+
+* $`a=b`$
+* test
+
+    ```math
+    \mathbb{N} \cong \mathbb{Z}
+    ```
+
 ---
 
-# Codebase steward for community
+OK example
+
+$`a=b`$
+* test
+
+    ```math
+    \mathbb{N} \cong \mathbb{Z}
+    ```
