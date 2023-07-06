@@ -1,6 +1,6 @@
 NG example
 
-* $`a=b`$
+$`a=b`$
 * test
 
     ```math
