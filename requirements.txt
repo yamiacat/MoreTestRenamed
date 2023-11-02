@@ -1,4 +1,4 @@
 # -*- coding: utf-8 -*-
 numpy==1.18.1 # file/path
-redis==3.5.0 
+redis==4.4.4 
 
