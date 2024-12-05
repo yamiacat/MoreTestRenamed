@@ -23,3 +23,5 @@ We had several narrow escapes: at one point I tried to drive the Great Red Shark
 Too weird to live, too rare to die!
 
 In a closed society where everybody's guilty, the only crime is getting caught. In a world of thieves, the only final sin is stupidity.
+
+We can't stop here, this is bat country!
