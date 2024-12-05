@@ -5,3 +5,5 @@ KNOW YOUR DOPE FIEND. YOUR LIFE MAY DEPEND ON IT! You will not be able to see hi
 With a bit of luck, his life was ruined forever. Always thinking that just behind some narrow door in all of his favorite bars, men in red woolen shirts are getting incredible kicks from things he’ll never know.
 
 You took too much man, too much, too much.
+
+So now, less than five years later, you can go up on a steep hill in Las Vegas and look West, and with the right kind of eyes you can almost see the high water mark — that place where the wave finally broke, and rolled back.
