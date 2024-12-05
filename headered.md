@@ -9,3 +9,5 @@ You took too much man, too much, too much.
 So now, less than five years later, you can go up on a steep hill in Las Vegas and look West, and with the right kind of eyes you can almost see the high water mark — that place where the wave finally broke, and rolled back.
 
 What kind of rat bastard psychotic would play that song- right now, at this moment?
+
+Still humping the American Dream
