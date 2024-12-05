@@ -33,3 +33,5 @@ Every now and then when your life gets complicated and the weasels start closing
 Never trust a cop in a raincoat.
 
 You better take care of me Lord, if you don't you're gonna have me on your hands.
+
+No, this is not a good town for psychedelic drugs. Reality itself is too twisted.
