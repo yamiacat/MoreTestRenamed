@@ -29,3 +29,5 @@ We can't stop here, this is bat country!
 There was madness in any direction, at any hour. If not across the Bay, then up the Golden Gate or down 101 to Los Altos or La Honda. . . . You could strike sparks anywhere. There was a fantastic universal sense that whatever we were doing was right, that we were winning. . . .
 
 Every now and then when your life gets complicated and the weasels start closing in, the only cure is to load up on heinous chemicals and then drive like a bastard from Hollywood to Las Vegas ... with the music at top volume and at least a pint of ether.
+
+Never trust a cop in a raincoat.
