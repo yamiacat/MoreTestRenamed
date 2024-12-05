@@ -31,3 +31,5 @@ There was madness in any direction, at any hour. If not across the Bay, then up 
 Every now and then when your life gets complicated and the weasels start closing in, the only cure is to load up on heinous chemicals and then drive like a bastard from Hollywood to Las Vegas ... with the music at top volume and at least a pint of ether.
 
 Never trust a cop in a raincoat.
+
+You better take care of me Lord, if you don't you're gonna have me on your hands.
