@@ -25,3 +25,5 @@ Too weird to live, too rare to die!
 In a closed society where everybody's guilty, the only crime is getting caught. In a world of thieves, the only final sin is stupidity.
 
 We can't stop here, this is bat country!
+
+There was madness in any direction, at any hour. If not across the Bay, then up the Golden Gate or down 101 to Los Altos or La Honda. . . . You could strike sparks anywhere. There was a fantastic universal sense that whatever we were doing was right, that we were winning. . . .
