@@ -1,4 +1,4 @@
-# ci
-.ci/
+# Valid comment about PDFs
+.pdf
 
-.ci/      #ci
+.log    # invalid comment about log files
