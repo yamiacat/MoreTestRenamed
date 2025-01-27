@@ -1,13 +1,1 @@
-blank no more
-
-Commit 1
-
-Commit 2
-
-Commit 3
-
-Extra content
-
-Mo
-
-And
+Start from scratch
