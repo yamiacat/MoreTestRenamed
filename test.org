@@ -22,6 +22,7 @@ book as faithfully as possible.
 This manual is for Org GTD version 4.0.0
 
 :END:
+
 * Copying
 :PROPERTIES:
 :copying:  t
