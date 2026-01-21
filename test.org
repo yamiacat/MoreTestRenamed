@@ -94,6 +94,7 @@ This package provides a system that allows you to capture incoming things into a
                +-----------+      +-----------+                   +-----------+
                 Waiting For        Next Actions                      Calendar
 #+end_example
+
 * What's new in 4.0
 :PROPERTIES:
 :CUSTOM_ID: new-in-4.0
